@@ -1,4 +1,4 @@
-# Creating level-based Personas
+# Creating level-based personas
 
 ## Creating level-based personas without using ML models.
 How to create level-based new customer definitions (personas) by using some features of the customers? 
