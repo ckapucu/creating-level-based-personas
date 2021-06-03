@@ -1,5 +1,4 @@
-![pexels-digital-buggu-171198 (1)](https://user-images.githubusercontent.com/9140821/120721363-5bf8a780-c4d6-11eb-947d-a4b5784b9e84.jpg)
-
+![student-profiles](https://user-images.githubusercontent.com/9140821/120721450-89455580-c4d6-11eb-841b-3452d77cac4e.jpg)
 
 # Creating level-based personas without using ML models
 
